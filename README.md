@@ -10,8 +10,6 @@
 - أمر [ john ] يقوم بتشغيل john بدون تنصيبه على جهازك
 - أمر [ nmap ] يقوم بتشغيل namp بدون تنصيبه على جهازك
 - أمر [ sqlmap ] يقوم بتشغيل sqlmap بدون تنصيبه على جهازك
-
-
 # الميزات عادية
 clear   : For Clear windows terminal
 exit    : For Close the windows terminal
@@ -28,10 +26,9 @@ ps      : writes the status of active processes
 kill    : kill some processes
 arp     : displays the Internet-to-adapter address translation tables used by the Address in Networks and communication management
 whoami  : displays a username associated with check if root or not
-
 # التثبيت
 - يمكنك تحميل الاداة على جهازك بنسخة exe:
 ```
 من المشروع الخاص بي افتح مجلد [ exe ] وحمل الأداة وشغلها
 ```
-ستعمل الأداة دون الحاجه لتثبيت اي شيء.
+ستعمل الأداة دون الحاجه لتثبيت اي شيء اخر.
