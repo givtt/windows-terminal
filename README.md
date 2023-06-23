@@ -10,6 +10,7 @@
 - أمر [ john ] يقوم بتشغيل john بدون تنصيبه على جهازك
 - أمر [ nmap ] يقوم بتشغيل namp بدون تنصيبه على جهازك
 - أمر [ sqlmap ] يقوم بتشغيل sqlmap بدون تنصيبه على جهازك
+- أمر [ clean_temp ] يقوم بمسح جميع ملفات الاداة من على جهازك
 # الميزات عادية
 - clear   : For Clear windows terminal
 - exit    : For Close the windows terminal
